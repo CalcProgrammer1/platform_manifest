@@ -96,6 +96,8 @@
   <project path="device/samsung/msm8960-common" name="AOKP/device_samsung_msm8960-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,d2,jf" />
   <project path="device/samsung/omap4-common" name="CyanogenMod/android_device_samsung_omap4-common" remote="cm" revision="cm-10.2" groups="notdefault,device,i9100g" />
   <project path="device/samsung/qcom-common" name="AOKP/device_samsung_qcom-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,d2,jf,t0lte,hercules,i605" />
+  <project path="device/samsung/quincy-common" name="CalcProgrammer1/device_samsung_quincy-common" remote="aokp" revision="cm-10.2" />
+  <project path="device/samsung/quincyatt" name="CalcProgrammer1/device_samsung_quincyatt" remote="aokp" revision="cm-10.2" />
   <project path="device/samsung/smdk4412-common" name="AOKP/device_samsung_smdk4412-common" remote="aokp" revision="jb-mr2" groups="notdefault,device,t0lte,i605" />
   <project path="device/samsung/smdk4412-qcom-common" name="CyanogenMod/android_device_samsung_smdk4412-qcom-common" remote="cm" revision="cm-10.2" groups="notdefault,device,t0lte,i605" />
   <project path="device/samsung/t0lte" name="AOKP/device_samsung_t0lte" remote="aokp" revision="jb-mr2" groups="notdefault,device,t0lte,i605" />
@@ -489,7 +491,7 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
 -->
-  <project path="vendor/aokp" name="AOKP/vendor_aokp" remote="aokp" revision="jb-mr2" />
+  <project path="vendor/aokp" name="CalcProgrammer1/vendor_aokp" remote="aokp" revision="jb-mr2" />
   <project path="vendor/aokp/bot" name="AOKP/pseudo_buildbot" remote="aokp" revision="jb-mr2" />
   <project path="vendor/htc" name="AOKP/vendor_htc" remote="aokp" revision="jb-mr2" groups="notdefault,vendor,htc" />
   <project path="vendor/lge" name="AOKP/vendor_lge" remote="aokp" revision="jb-mr2" groups="notdefault,vendor,lge" />
